@@ -211,7 +211,7 @@
                         <li><a href="clubs/maverick.php">Team Maverick</a></li>
                         <li><a href="clubs/ishrae.php">ISHRAE</a></li>
                         <li><a href="clubs/iei.php">IEI</a></li>
-                        <li><a href="clubs/sport.php">Sports</a></li>
+                        <li><a href="clubs/sport.php">Spots</a></li>
                     </ul>
                 </li>
                 <li class="b-left b-right"><a href="contact_us/contact.php">Contact us</a></li>
